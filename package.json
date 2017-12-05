@@ -1,0 +1,24 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bermessa/11-Hangman-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bermessa/11-Hangman-CLI/issues"
+  },
+  "homepage": "https://github.com/bermessa/11-Hangman-CLI#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "letter": "0.0.1",
+    "word": "^0.2.4"
+  }
+}
